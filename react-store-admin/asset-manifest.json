@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.281f09b1.chunk.css",
-    "main.js": "/static/js/main.dbb59703.chunk.js",
-    "main.js.map": "/static/js/main.dbb59703.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/css/2.715b4953.chunk.css": "/static/css/2.715b4953.chunk.css",
-    "static/js/2.6e8459f7.chunk.js": "/static/js/2.6e8459f7.chunk.js",
-    "static/js/2.6e8459f7.chunk.js.map": "/static/js/2.6e8459f7.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.9fadd324856c8c38d6eef98a21e082ef.js": "/precache-manifest.9fadd324856c8c38d6eef98a21e082ef.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.715b4953.chunk.css.map": "/static/css/2.715b4953.chunk.css.map",
-    "static/css/main.281f09b1.chunk.css.map": "/static/css/main.281f09b1.chunk.css.map",
-    "static/media/index.scss": "/static/media/login-bg.9094f451.jpg",
-    "static/media/map-marker.png": "/static/media/map-marker.d9dc09a7.png"
+    "main.css": "./static/css/main.0ac8ff42.chunk.css",
+    "main.js": "./static/js/main.50b59518.chunk.js",
+    "main.js.map": "./static/js/main.50b59518.chunk.js.map",
+    "runtime~main.js": "./static/js/runtime~main.d653cc00.js",
+    "runtime~main.js.map": "./static/js/runtime~main.d653cc00.js.map",
+    "static/css/2.715b4953.chunk.css": "./static/css/2.715b4953.chunk.css",
+    "static/js/2.e1079610.chunk.js": "./static/js/2.e1079610.chunk.js",
+    "static/js/2.e1079610.chunk.js.map": "./static/js/2.e1079610.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.f81be051609533366d8ac8bf6a6efab6.js": "./precache-manifest.f81be051609533366d8ac8bf6a6efab6.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.715b4953.chunk.css.map": "./static/css/2.715b4953.chunk.css.map",
+    "static/css/main.0ac8ff42.chunk.css.map": "./static/css/main.0ac8ff42.chunk.css.map",
+    "static/media/index.scss": "./static/media/login-bg.9094f451.jpg",
+    "static/media/map-marker.png": "./static/media/map-marker.d9dc09a7.png"
   }
 }
